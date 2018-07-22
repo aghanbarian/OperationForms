@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "New JSON Schema",
+  "description": "RisApp - New JSON Schema",
+  "type": "object",
+  "required": [],
+  "properties": {},
+  "blockly": {
+    "code": "String('') + String('');\n\n![].length;\n",
+    "xml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><block type=\"text_join\" id=\"!SGE0S9tk`lNLJ}t5r**\" x=\"69\" y=\"-545\"><mutation items=\"2\"></mutation></block><block type=\"lists_isEmpty\" id=\"5o`$@6J2S]}YQL*rrvKP\" x=\"67\" y=\"-485\"></block></xml>"
+  },
+  "langs": []
+}
